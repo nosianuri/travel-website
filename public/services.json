@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "name": "Mohasthan Garh",
+        "price": 739.99,
+        "quantity": 0,
+        "supplier": "Hugh Grosvenor",
+        "description": "Cloudy White, Sorta Sunny, Stormy Black.GLUOG, G8VOU.6.71 inches, 110.5 cm2 (~88.8% screen-to-body ratio).128GB 12GB RAM, 256GB 12GB RAM, 512GB 12GB RAM. Available. Released 2021, October 28 .",
+        "image": "https://i.ibb.co/kH1vV4M/mohasthan.png"
+    },
+    {
+        "id": 2,
+        "name": "Rangamati Town",
+        "price": 999.00,
+        "quantity": 0,
+        "supplier": "Matthew Mullenweg",
+        "description": "Face ID, accelerometer, gyro, proximity, compass, barometer Ultra Wideband (UWB) support.Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1200 nits (peak).6.8 inches, 114.7 cm2 (~90.2% screen-to-body ratio).",
+        "image": "https://i.ibb.co/fkQZPRz/rangamati.png"
+    },
+    {
+        "id": 3,
+        "name": "Sajek valley",
+        "price": 999.99,
+        "quantity": 0,
+        "supplier": "Catherine Cook",
+        "description": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer.Dynamic AMOLED 2X, 120Hz, HDR10+, 1750 nits (peak).6.8 inches, 114.7 cm2 (~90.2% screen-to-body ratio) .",
+        "image": "https://i.ibb.co/vYV1VDP/sajek.png"
+    },
+    {
+        "id": 4,
+        "name": "Hanging Bridge",
+        "price": 969.68,
+        "quantity": 0,
+        "supplier": "David Karp",
+        "description": "Oppo Find X5 Pro Dimensity model has no MariSilicon X image chip, 5-axis OIS and Hasselblad's color calibration.LTPO2 AMOLED, 1B colors, 120Hz, HDR10+, BT.2020, 500 nits (typ), 800 nits (HBM), 1300 nits (peak).",
+        "image": "https://i.ibb.co/k9YwyY0/oppo-find-x5-pro.png"
+    },
+    {
+        "id": 5,
+        "name": "Kaptai Lake",
+        "price": 728.99,
+        "quantity": 0,
+        "supplier": "Varun Agarwal",
+        "description": "Face ID, accelerometer, gyro, proximity, compass, barometer.Super Retina XDR OLED, HDR10, Dolby Vision, 800 nits (HBM), 1200 nits (peak).Scratch-resistant ceramic glass, oleophobic coating, Wide color gamut. ",
+        "image": "https://i.ibb.co/dt2qB2w/apple-iphone-13.png"
+    },
+    {
+        "id": 6,
+        "name": "Indigenous Museum",
+        "price": 746.41,
+        "quantity": 0,
+        "supplier": "Jack Ma",
+        "description": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum, barometer.LTPO2 Fluid AMOLED, 1B colors, 120Hz, HDR10+, 500 nits (typ), 800 nits (HBM), 1300 nits (peak) .",
+        "image": "https://i.ibb.co/hFtt2q1/srimagal.png"
+    },
+    {
+        "id": 7,
+        "name": "Srimongal",
+        "price": 898.94,
+        "quantity": 0,
+        "supplier": "Masayoshi Son",
+        "description": "Fingerprint (under display, optical), accelerometer, gyro, compass, barometer, color spectrum.LTPO AMOLED, 1B colors, 120Hz, Dolby Vision, HDR10+, 1000 nits (HBM), 1500 nits (peak).Available. Released 2021, December 31. ",
+        "image": "https://i.ibb.co/XDZ7XnZ/Sreemongol.png"
+    },
+    {
+        "id": 8,
+        "name": "Paharpur",
+        "price": 1099.00,
+        "quantity": 0,
+        "supplier": "Richard Branson",
+        "description": "Face ID, accelerometer, gyro, proximity, compass, barometer.Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1200 nits (peak).Glass front (Gorilla Glass), glass back (Gorilla Glass), stainless steel frame. ",
+        "image": "https://i.ibb.co/q7PFB2S/paharpur.png"
+    },
+    {
+        "id": 9,
+        "name": "Lalbag Fort",
+        "price": 768.99,
+        "quantity": 0,
+        "supplier": "Mukesh Ambani",
+        "description": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass.LTPO2 AMOLED, 1B colors, 120Hz, HDR10+, 500 nits (typ), 1000 nits (HBM), 1500 nits (peak).256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM. ",
+        "image": "https://i.ibb.co/MGLss79/Rectangle-1.png"
+    },
+    {
+        "id": 10,
+        "name": "Ahsan Manzil",
+        "price": 1300,
+        "quantity": 0,
+        "supplier": "Jeffrey Bezos",
+        "description": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass.AMOLED, 1B colors, 144Hz, HDR10+, 800 nits (typ), 1200 nits (peak).Memory space 512GB 18GB RAM.6.78 inches, 109.5 cm2 (~82.0% screen-to-body ratio). ",
+        "image": "https://i.ibb.co/NjWNy83/Ahsan.png"
+    },
+    {
+        "id": 11,
+        "name": "Jaflong",
+        "price": 902.86,
+        "quantity": 0,
+        "supplier": "Warren Buffett",
+        "description": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum.LTPO AMOLED, 1B colors, 120Hz, HDR10+, 500 nits (typ), 1000 nits (HBM), 1500 nits (peak). Inner Memory 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM. ",
+        "image": "https://i.ibb.co/ynPxxrc/jaflong.png"
+    },
+    {
+        "id": 12,
+        "name": "Ratatgul Swamp Forest",
+        "price": 1499.00,
+        "quantity": 0,
+        "supplier": "Gautam Adani",
+        "description": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer Bixby natural language commands and dictation.Foldable Dynamic AMOLED 2X, 120Hz, HDR10+, 1200 nits (peak).256GB 12GB RAM, 512GB 12GB RAM. ",
+        "image": "https://i.ibb.co/ZmMrvgQ/Ratargul.png"
+    },
+    {
+        "id": 13,
+        "name": "Sitakundu",
+        "price": 649.58,
+        "quantity": 0,
+        "supplier": "Musa Bin Shamser",
+        "description": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum.LTPO Fluid2 AMOLED, 1B colors, 120Hz, HDR10+, 1300 nits (peak).128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM. ",
+        "image": "https://i.ibb.co/K2hMF4s/sitakundu.png"
+    },
+    {
+        "id": 14,
+        "name": "Nijhum Island",
+        "price": 739.00,
+        "quantity": 0,
+        "supplier": "Giasuddin Mamun",
+        "description": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer.Dynamic AMOLED 2X, 120Hz, HDR10+, 1500 nits (peak).128GB 12GB RAM, 256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM. ",
+        "image": "https://i.ibb.co/DpmtNvz/nijhum.png"
+    },
+    {
+        "id": 15,
+        "name": "Patenga Sea Beach",
+        "price": 200.44,
+        "quantity": 0,
+        "supplier": "Salman F. Rahman",
+        "description": "Fingerprint (under display, optical), accelerometer, gyro, compass, Virtual proximity sensing.Super AMOLED.Android 10, upgradable to Android 11, One UI 3.1.64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM. ",
+        "image": "https://i.ibb.co/g3J3dFY/patenga.png"
+    }
+]

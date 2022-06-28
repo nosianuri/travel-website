@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
     return (
         <footer>
-            <p><small>copyright @ year</small></p>
+            <p><small>copyright @ dynamic year</small></p>
         </footer>
     );
 };
