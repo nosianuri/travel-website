@@ -2,6 +2,9 @@ import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { useCreateUserWithEmailAndPassword, useUpdateProfile } from 'react-firebase-hooks/auth';
 import './Register.css';
+import auth from '../../firebase.init';
+import SocialLogin from '../Shared/SocialLogin/SocialLogin';
+import Loading from '../Shared/Loading/Loading';
 
 
 const Register = () => {
@@ -53,7 +56,7 @@ const Register = () => {
                 <input type="password" name="password" id="" placeholder='password' required />
                 <input onClick={() => setAgree(!agree)} type="checkbox" name="terms" id="terms" />
                 {/* <label className={agree ? 'ps-2 text-primary': 'ps-2 text-danger'} htmlFor="terms">Accept Genius Car Terms and Conditions</label> */}
-                <label className={`ps-2 ${agree ? '' : 'text-danger'}`} htmlFor="terms">Accept Genius Car Terms and Conditions</label>
+                <label className={`ps-2 ${agree ? '' : 'text-danger'}`} htmlFor="terms">Accept Travel-master Terms and Conditions</label>
                 <input
                     disabled={!agree}
                     className='w-50 mx-auto btn btn-primary mt-2'
