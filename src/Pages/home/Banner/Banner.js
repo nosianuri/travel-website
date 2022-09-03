@@ -20,7 +20,7 @@ const Banner = () => {
           alt="First slide"
         />
         <Carousel.Caption>
-          <h3>First slide label</h3>
+          <h3>Welcome to Bangladesh Tour</h3>
           <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
         </Carousel.Caption>
       </Carousel.Item>
@@ -44,9 +44,9 @@ const Banner = () => {
         />
 
         <Carousel.Caption>
-          <h3>Third slide label</h3>
+          <h3>Incredible last-minute hotel deals</h3>
           <p>
-            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+            SAVE MONEY AND TIME BY BOOKING TONIGHT AND BEYOND.
           </p>
         </Carousel.Caption>
       </Carousel.Item>

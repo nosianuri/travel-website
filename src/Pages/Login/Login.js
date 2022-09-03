@@ -83,7 +83,7 @@ const Login = () => {
                 </Button>
             </Form>
             {errorElement}
-            <p>New to Genius Car? <Link to="/register" className='text-primary' onClick={navigateRegister}>Please Register</Link></p>
+            <p>New to Genius Car? <Link to="/register" className='text-primary text-decoration-none' onClick={navigateRegister}>Please Register</Link></p>
             <p>Forget Password? <button to="/register" className='text-primary btn btn-link pe-auto text-decoration-none' onClick={resetPassword}>Reset Password</button></p>
             <SocialLogin></SocialLogin>
             <ToastContainer />
