@@ -12,6 +12,8 @@ import Checkout from './Pages/Checkout/Checkout/Checkout';
 import RequireAuth from './Pages/Shared/RequireAuth/RequireAuth';
 import AddService from './Pages/AddService/AddService';
 import ManageServices from './Pages/ManageServices/ManageServices';
+import { ToastContainer } from 'react-toastify';
+import Booking from './Pages/Booking/Booking';
 
 function App() {
   return (
@@ -41,9 +43,15 @@ function App() {
             <ManageServices />
           </RequireAuth>
         }></Route>
+        <Route path='/bookings' element={
+          <RequireAuth>
+            <Booking />
+          </RequireAuth>
+        }></Route>
         <Route path='*' element={<NotFound></NotFound>}></Route>
       </Routes>
       <Footer></Footer>
+      <ToastContainer />
     </div>
   );
 }

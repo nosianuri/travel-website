@@ -5,8 +5,10 @@ import { Link, useNavigate, useLocation } from 'react-router-dom';
 import auth from '../../firebase.init';
 import Loading from '../Shared/Loading/Loading';
 import SocialLogin from '../Shared/SocialLogin/SocialLogin';
-import { ToastContainer, toast } from 'react-toastify';
+import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import axios from 'axios';
+import useToken from '../../hooks/useToken';
 
 const Login = () => {
     const emailRef = useRef('');
@@ -24,13 +26,14 @@ const Login = () => {
     ] = useSignInWithEmailAndPassword(auth);
 
     const [sendPasswordResetEmail, sending] = useSendPasswordResetEmail(auth);
-
-    if (user) {
-        navigate(from, { replace: true });
-    }
+    const [token] = useToken(user);
 
     if (loading || sending) {
         return <Loading />
+    }
+
+    if (token) {
+        navigate(from, { replace: true });
     }
 
     if (error) {
@@ -40,12 +43,12 @@ const Login = () => {
             </div>
     }
 
-    const handleSubmit = event => {
+    const handleSubmit = async event => {
         event.preventDefault();
         const email = emailRef.current.value;
         const password = passwordRef.current.value;
 
-        signInWithEmailAndPassword(email, password);
+        await signInWithEmailAndPassword(email, password);
     }
 
     const navigateRegister = event => {
@@ -55,9 +58,9 @@ const Login = () => {
         const email = emailRef.current.value;
         if (email) {
             await sendPasswordResetEmail(email);
-        toast('Sent email');
+            toast('Sent email');
         }
-        else{
+        else {
             toast('please enter your email address');
         }
     }
@@ -67,12 +70,12 @@ const Login = () => {
             <h2 className='text-center mt-5'>Login</h2>
             <Form onSubmit={handleSubmit}>
                 <Form.Group className="mb-3" controlId="formBasicEmail">
-                    
+
                     <Form.Control ref={emailRef} type="email" placeholder="Enter email" required />
                 </Form.Group>
 
                 <Form.Group className="mb-3" controlId="formBasicPassword">
-                    
+
                     <Form.Control ref={passwordRef} type="password" placeholder="Password" required />
                 </Form.Group>
                 <Form.Group className="mb-3" controlId="formBasicCheckbox">
@@ -86,7 +89,7 @@ const Login = () => {
             <p>New to Genius Car? <Link to="/register" className='text-primary text-decoration-none' onClick={navigateRegister}>Please Register</Link></p>
             <p>Forget Password? <button to="/register" className='text-primary btn btn-link pe-auto text-decoration-none' onClick={resetPassword}>Reset Password</button></p>
             <SocialLogin></SocialLogin>
-            <ToastContainer />
+
         </div>
     );
 };

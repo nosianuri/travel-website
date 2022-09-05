@@ -2,82 +2,82 @@
     {
         "id": 1,
         "name": "Mohasthan Garh",
-        "price": 739.99,
+        "price": 700,
         "quantity": 0,
-        "supplier": "Hugh Grosvenor",
-        "description": "Cloudy White, Sorta Sunny, Stormy Black.GLUOG, G8VOU.6.71 inches, 110.5 cm2 (~88.8% screen-to-body ratio).128GB 12GB RAM, 256GB 12GB RAM, 512GB 12GB RAM. Available. Released 2021, October 28 .",
+        "supplier": "Shamim Hossen",
+        "description": "Mahasthangarh is one of the earliest urban archaeological sites so far discovered in Bangladesh. The village Mahasthan in Shibganj upazila of Bogra District contains the remains of an ancient city which was called Pundranagara or Paundravardhanapura in the territory of Pundravardhana.",
         "image": "https://i.ibb.co/vd2bnNt/mohasthan.png"
     },
     {
         "id": 2,
         "name": "Rangamati Town",
-        "price": 999.00,
+        "price": 1000,
         "quantity": 0,
-        "supplier": "Matthew Mullenweg",
-        "description": "Face ID, accelerometer, gyro, proximity, compass, barometer Ultra Wideband (UWB) support.Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1200 nits (peak).6.8 inches, 114.7 cm2 (~90.2% screen-to-body ratio).",
+        "supplier": "Munker Naim",
+        "description": "Rangamati is the administrative headquarter and town of Rangamati Hill District in the Chittagong Hill Tracts of Bangladesh. The town is located at 22°37'60N 92°12'0E and has an altitude of 14 metres. The district is administered by an office named as District Administration, Rangamati.",
         "image": "https://i.ibb.co/pJtBf0L/Ratargul.png"
     },
     {
         "id": 3,
         "name": "Sajek valley",
-        "price": 999.99,
+        "price": 1000,
         "quantity": 0,
-        "supplier": "Catherine Cook",
-        "description": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer.Dynamic AMOLED 2X, 120Hz, HDR10+, 1750 nits (peak).6.8 inches, 114.7 cm2 (~90.2% screen-to-body ratio) .",
+        "supplier": "Toufiq Hossen",
+        "description": "Sajek Tripuri Valley is one of the most popular tourist spots in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in Rangamati District. The valley is 2,000 feet above sea level. Sajek Tripuri Valley is known as the Queen of Hills & Roof of Rangamati.",
         "image": "https://i.ibb.co/CBTtWyz/sajek.png"
     },
     {
         "id": 4,
         "name": "Hanging Bridge",
-        "price": 969.68,
+        "price": 950,
         "quantity": 0,
-        "supplier": "David Karp",
+        "supplier": "Afzal Hossan",
         "description": "Hanging Bridge(Jhulonto Bridge in Bengali)is the landmark icon of Rangamati. It's a popular tourist spot and a must go destination. Parjatan holiday complex is the best place to stay in Rangamati. Boating is the prime attraction in Rangamati.",
         "image": "https://i.ibb.co/jTDp6sJ/bridge.png"
     },
     {
         "id": 5,
         "name": "Kaptai Lake",
-        "price": 728.99,
+        "price": 750,
         "quantity": 0,
-        "supplier": "Varun Agarwal",
-        "description": "Face ID, accelerometer, gyro, proximity, compass, barometer.Super Retina XDR OLED, HDR10, Dolby Vision, 800 nits (HBM), 1200 nits (peak).Scratch-resistant ceramic glass, oleophobic coating, Wide color gamut. ",
+        "supplier": "Bokhtier Islam",
+        "description": "Kaptai Lake is the largest lake in Bangladesh. It is located in the Kaptai Upazila under Rangamati District of Chittagong Division. The lake was created as a result of building the Kaptai Dam on the Karnaphuli River, as part of the Karnaphuli Hydro-electric project.",
         "image": "https://i.ibb.co/KhdvbQ8/Kaptai-Lake.png"
     },
     {
         "id": 6,
         "name": "Indigenous Museum",
-        "price": 746.41,
+        "price": 750,
         "quantity": 0,
-        "supplier": "Jack Ma",
-        "description": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum, barometer.LTPO2 Fluid AMOLED, 1B colors, 120Hz, HDR10+, 500 nits (typ), 800 nits (HBM), 1300 nits (peak) .",
+        "supplier": "Tamzidur Rahman",
+        "description": "Varendra Museum (Bengali: বরেন্দ্র জাদুঘর) is a museum, research centre, and popular visitor attraction at the heart of Rajshahi and maintained by Rajshahi University in Bangladesh. It is considered the oldest museum in Bangladesh. It was the first museum to be established in East Bengal in 1910.",
         "image": "https://i.ibb.co/WvJsPvN/Rectangle-1.png"
     },
     {
         "id": 7,
         "name": "Srimongal",
-        "price": 898.94,
+        "price": 900,
         "quantity": 0,
-        "supplier": "Masayoshi Son",
-        "description": "Fingerprint (under display, optical), accelerometer, gyro, compass, barometer, color spectrum.LTPO AMOLED, 1B colors, 120Hz, Dolby Vision, HDR10+, 1000 nits (HBM), 1500 nits (peak).Available. Released 2021, December 31. ",
+        "supplier": "Neyamul Kabir",
+        "description": "Sreemangal is an upazila of Moulvibazar District in the Sylhet Division of Bangladesh. It is located at the southwest of the district, and borders the Habiganj District to the west and the Indian state of Tripura to the south.",
         "image": "https://i.ibb.co/WyByCHn/srimagal.png"
     },
     {
         "id": 8,
         "name": "Paharpur",
-        "price": 1099.00,
+        "price": 1100,
         "quantity": 0,
-        "supplier": "Richard Branson",
-        "description": "Face ID, accelerometer, gyro, proximity, compass, barometer.Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1200 nits (peak).Glass front (Gorilla Glass), glass back (Gorilla Glass), stainless steel frame. ",
+        "supplier": "Tauhid Islam",
+        "description": "Somapura Mahavihara in Paharpur, Badalgachhi, Naogaon, Bangladesh is among the best known Buddhist viharas, monasteries, in the Indian Subcontinent and is one of the most important archaeological sites in the country.",
         "image": "https://i.ibb.co/bHYggNs/paharpur.png"
     },
     {
         "id": 9,
         "name": "Lalbag Fort",
-        "price": 768.99,
+        "price": 800,
         "quantity": 0,
-        "supplier": "Mukesh Ambani",
-        "description": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass.LTPO2 AMOLED, 1B colors, 120Hz, HDR10+, 500 nits (typ), 1000 nits (HBM), 1500 nits (peak).256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM. ",
+        "supplier": "Ezaz Rahman",
+        "description": "Lalbagh Fort is an incomplete 17th-century Mughal fort complex that stands before the Buriganga River in the southwestern part of Dhaka, Bangladesh. The construction was started in 1678 AD by Mughal Subahdar Muhammad Azam Shah, who was a son of Emperor Aurangzeb and later emperor himself.",
         "image": "https://i.ibb.co/GF1gsFY/sitakundu.png"
     },
     {
@@ -86,52 +86,52 @@
         "price": 1300,
         "quantity": 0,
         "supplier": "Jeffrey Bezos",
-        "description": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass.AMOLED, 1B colors, 144Hz, HDR10+, 800 nits (typ), 1200 nits (peak).Memory space 512GB 18GB RAM.6.78 inches, 109.5 cm2 (~82.0% screen-to-body ratio). ",
+        "description": "Ahsan Manzil is the erstwhile official residential palace and seat of the Nawab of Dhaka. The building is situated at Kumartoli along the banks of the Buriganga River in Dhaka, Bangladesh. Construction was started in 1859 and was completed in 1872. It was constructed in the Indo-Saracenic Revival architecture. ",
         "image": "https://i.ibb.co/tmyk47n/Ahsan.png"
     },
     {
         "id": 11,
         "name": "Jaflong",
-        "price": 902.86,
+        "price": 900,
         "quantity": 0,
         "supplier": "Warren Buffett",
-        "description": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum.LTPO AMOLED, 1B colors, 120Hz, HDR10+, 500 nits (typ), 1000 nits (HBM), 1500 nits (peak). Inner Memory 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM. ",
+        "description": "Jaflong is a hill station and tourist destination in the Division of Sylhet, Bangladesh. It is located in Gowainghat Upazila of Sylhet District and situated at the border between Bangladesh and the Indian state of Meghalaya, overshadowed by subtropical mountains and rainforests.",
         "image": "https://i.ibb.co/W63ksy4/jaflong.png"
     },
     {
         "id": 12,
         "name": "Ratatgul Swamp Forest",
-        "price": 1499.00,
+        "price": 1400,
         "quantity": 0,
         "supplier": "Gautam Adani",
-        "description": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer Bixby natural language commands and dictation.Foldable Dynamic AMOLED 2X, 120Hz, HDR10+, 1200 nits (peak).256GB 12GB RAM, 512GB 12GB RAM. ",
+        "description": "Ratargul Swamp Forest is a freshwater swamp forest located in Gowain River, Fatehpur Union, Gowainghat, Sylhet, Bangladesh. Ratargul was once thought to be the only swamp forest in Bangladesh, and one of the few freshwater swamp forests in the world.",
         "image": "https://i.ibb.co/pJtBf0L/Ratargul.png"
     },
     {
         "id": 13,
         "name": "Sitakundu",
-        "price": 649.58,
+        "price": 650,
         "quantity": 0,
         "supplier": "Musa Bin Shamser",
-        "description": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum.LTPO Fluid2 AMOLED, 1B colors, 120Hz, HDR10+, 1300 nits (peak).128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM. ",
+        "description": "Sitakunda is an upazila in the Chattogram District of Chattogram Division, Bangladesh. It includes one urban settlement, the Sitakunda Town, and 10 unions. Sitakunda is the home of the country's first eco-park, as well as alternative energy projects, specifically wind energy and geothermal power.",
         "image": "https://i.ibb.co/GF1gsFY/sitakundu.png"
     },
     {
         "id": 14,
         "name": "Nijhum Island",
-        "price": 739.00,
+        "price": 750,
         "quantity": 0,
         "supplier": "Giasuddin Mamun",
-        "description": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer.Dynamic AMOLED 2X, 120Hz, HDR10+, 1500 nits (peak).128GB 12GB RAM, 256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM. ",
+        "description": "Nijhum Dwip is a small island under Hatiya upazila. It is situated in Noakhali District in Bangladesh. Once it was called Char Osmani, Baluar Char, Golden Island A cluster of islands emerged in the early 1950s as an alluvium in the shallow estuary of the Bay of Bengal on the south of Noakhali.",
         "image": "https://i.ibb.co/M1FMdXN/nijhum.png"
     },
     {
         "id": 15,
         "name": "Patenga Sea Beach",
-        "price": 200.44,
+        "price": 500,
         "quantity": 0,
         "supplier": "Salman F. Rahman",
-        "description": "Fingerprint (under display, optical), accelerometer, gyro, compass, Virtual proximity sensing.Super AMOLED.Android 10, upgradable to Android 11, One UI 3.1.64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM. ",
+        "description": "Patenga is a sea beach of the Bay of Bengal, located 14 kilometres south from the port city of Chattogram, Bangladesh. It is near to the mouth of the Karnaphuli River. The beach is very close to the Bangladesh Naval Academy of the Bangladesh Navy and Shah Amanat International Airport.",
         "image": "https://i.ibb.co/CbBv8sW/patenga.png"
     }
 ]
