@@ -5,8 +5,6 @@ const Footer = () => {
     const today = new Date();
     const year = today.getFullYear();
     return (
-        
-
         <div className="footer">
       <div className="fLists">
         <ul className="fList">

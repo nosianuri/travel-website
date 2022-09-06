@@ -4,8 +4,8 @@ import Gudiers from '../Guiders/Gudiers';
 import Banner from '../Banner/Banner';
 import { Helmet } from 'react-helmet-async';
 import MailList from '../Maillist/MailList';
-import Feature from '../Feature/Feature';
-import FeaturedProperties from '../featuredProperties/featuredProperties';
+// import Feature from '../Feature/Feature';
+// import FeaturedProperties from '../featuredProperties/featuredProperties';
 
 const Home = () => {
     return (
@@ -14,10 +14,9 @@ const Home = () => {
             <title>Home - Travel Master</title>
         </Helmet>
             <Banner></Banner>
-            <Feature />
+            
             <Services></Services>
             <Gudiers></Gudiers>
-            <FeaturedProperties />
             <MailList />
         </>
     );

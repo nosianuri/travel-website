@@ -13,7 +13,7 @@ const Booking = () => {
 
         const getBookings = async () => {
             const email = user?.email;
-            const url = `http://localhost:5000/booking?email=${email}`;
+            const url = `https://fierce-waters-93331.herokuapp.com/booking?email=${email}`;
             try {
                 const { data } = await axiosPrivate.get(url);
                 setBookings(data);
