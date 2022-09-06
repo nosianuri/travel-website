@@ -3,6 +3,7 @@ import Services from '../Services/Services';
 import Gudiers from '../Guiders/Gudiers';
 import Banner from '../Banner/Banner';
 import { Helmet } from 'react-helmet-async';
+import MailList from '../Maillist/MailList';
 
 const Home = () => {
     return (
@@ -13,6 +14,7 @@ const Home = () => {
             <Banner></Banner>
             <Services></Services>
             <Gudiers></Gudiers>
+            <MailList />
         </>
     );
 };
