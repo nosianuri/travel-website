@@ -49,7 +49,7 @@ const Footer = () => {
           <li className="fListItem">Terms & conditions</li>
         </ul>
       </div>
-      <div className='text-center bg-light'>Copyright © 2022 Travel GURU BD.</div>
+      <div className='text-center bg-light pb-3'>Copyright © 2022 Travel GURU BD.</div>
     </div>
 
        

@@ -7,13 +7,13 @@ import auth from '../../firebase.init';
 
 const Booking = () => {
     const [user] = useAuthState(auth);
-    const [booking, setBookings] = useState([]);
+    const [bookings, setBookings] = useState([]);
     const navigate = useNavigate();
     useEffect(() => {
 
         const getBookings = async () => {
             const email = user?.email;
-            const url = `https://fierce-waters-93331.herokuapp.com/booking?email=${email}`;
+            const url = `http://localhost:5000/booking?email=${email}`;
             try {
                 const { data } = await axiosPrivate.get(url);
                 setBookings(data);
@@ -30,11 +30,11 @@ const Booking = () => {
 
     }, [user]);
     return (
-        <div>
-            <h2>Your Bookings: {booking.length}</h2>
+        <div className='w-50 mx-auto'>
+            <h2>Your Bookings: {bookings.length}</h2>
             {
-                setBookings.map(booking =><div key={ondragover._id}>
-                    <p>{booking.email} : {ondragover.service}</p>
+                bookings.map(booking =><div key={booking._id}>
+                    <p>{booking.email} : {booking.service}</p>
                 </div>)
             }
         </div>

@@ -1,4 +1,5 @@
 import React from 'react';
+import './Guiders.css';
 
 import guider1 from '../../../images/guider/guide1.png';
 import guider2 from '../../../images/guider/guide2.png';
@@ -10,17 +11,17 @@ import Gudier from '../Guider/Gudier';
 
 const guiders = [
     {id:1, name: 'Munker Naim', img: guider1},
-    {id:2, name: 'Munker Naim', img: guider2},
-    {id:3, name: 'Munker Naim', img: guider3},
-    {id:4, name: 'Munker Naim', img: guider4},
-    {id:5, name: 'Munker Naim', img: guider5},
-    {id:6, name: 'Munker Naim', img: guider6},
+    {id:2, name: 'Shamim hossen', img: guider2},
+    {id:3, name: 'Toufiq hasan', img: guider3},
+    {id:4, name: 'Tamzidur Rahman', img: guider4},
+    {id:5, name: 'Ezaz Islam', img: guider5},
+    {id:6, name: 'Bokhtier Islam', img: guider6},
 ]
 
 const Gudiers = () => {
     return (
         <div id='guiders' className='container mt-5'>
-            <h2 className='text-primary text-center'>Our Touriest Guider</h2>
+            <h2 className='text-color text-center'>Our Touriest Guider</h2>
             <div className='row'>
                 {
                     guiders.map(guider => <Gudier
