@@ -14,6 +14,7 @@ import AddService from './Pages/AddService/AddService';
 import ManageServices from './Pages/ManageServices/ManageServices';
 import { ToastContainer } from 'react-toastify';
 import Booking from './Pages/Booking/Booking';
+import SearchPage from './Pages/SearchPage/SearchPage';
 
 function App() {
   return (
@@ -23,6 +24,10 @@ function App() {
         <Route path="/" element={
           <Home></Home>
         }></Route>
+        <Route path='/searchpage' element={
+          <SearchPage />
+        }>
+        </Route>
         <Route path="/home" element={<Home></Home>}></Route>
         <Route path='/service/:serviceId' element={<ServiceDetail></ServiceDetail>}></Route>
         <Route path="/about" element={<About></About>}></Route>
