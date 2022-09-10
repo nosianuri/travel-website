@@ -1,3 +1,4 @@
+import { Check } from '@material-ui/icons';
 import React, { useState } from 'react';
 import { useEffect } from 'react';
 import Service from '../Service/Service';
@@ -12,8 +13,9 @@ const Services = () => {
             .then(data => setServices(data));
     }, []);
     return (
-        <div id='services' className='container mt-5'>
-            <h2 className='services-title'>open for travel</h2>
+        <div id='services' className='container'>
+            <h2 className='services-title'>open for travel from T.G. BD</h2>
+            <p className='services-p'> <span><Check/></span>Travel possible in both directions <span><Check/></span> No quarantine or 24h quarantine <span><Check/></span> Great Deals</p>
             <div className='services-container mt-5'>
                 {
                     services.map(service => <Service

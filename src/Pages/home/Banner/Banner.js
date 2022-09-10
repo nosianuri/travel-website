@@ -33,7 +33,7 @@ const Banner = () => {
         />
         <Carousel.Caption>
           <h3 className="banner-text">Welcome to Bangladesh Tour</h3>
-          <p className="banner-text">Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          <p className="banner-text">Your all-in-one travel app.</p>
           <Button className='ENbtn' onClick={() => navigate.push('/search')} variant='outlined'>Explore Nearby</Button>
         </Carousel.Caption>
       </Carousel.Item>

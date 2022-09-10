@@ -4,8 +4,9 @@ import Gudiers from '../Guiders/Gudiers';
 import Banner from '../Banner/Banner';
 import { Helmet } from 'react-helmet-async';
 import MailList from '../Maillist/MailList';
-// import Feature from '../Feature/Feature';
-// import Searchbar from '../Search/Searchbar';
+import Testimonial from '../Testimonial/Testimonial';
+
+
 
 const Home = () => {
     return (
@@ -14,6 +15,7 @@ const Home = () => {
             <title>Home - Travel Master</title>
         </Helmet>
             <Banner></Banner>
+            <Testimonial />
             <Services></Services>
             <Gudiers></Gudiers>
             <MailList />
