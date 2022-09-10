@@ -83,7 +83,14 @@ import {
               <span>Airport taxis</span>
             </div>
           </div>
-          {type !== "list" && (
+          <h1 className="headerTitle">
+                A lifetime of discounts? It's Genius.
+              </h1>
+              <p className="headerDesc">
+                Get rewarded for your travels – unlock instant savings of 10% or
+                more with a free Travel Guru BD account
+              </p>
+          {/* {type !== "list" && (
             <>
               <h1 className="headerTitle">
                 A lifetime of discounts? It's Genius.
@@ -204,7 +211,7 @@ import {
                 </div>
               </div>
             </>
-          )}
+          )} */}
         </div>
       </div>
     );
