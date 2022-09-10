@@ -31,7 +31,7 @@ function Search() {
             <h2>Number of guests <PeopleIcon />
             </h2>
             <input min={0} defaultValue={2} type="number" />
-            <Button onClick={() => navigate.push('/search')}>Search Travel Guru BD</Button>
+            <Button onClick={() => navigate('/search')}>Search Travel Guru BD</Button>
         </div>
     )
 }

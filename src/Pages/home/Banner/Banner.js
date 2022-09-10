@@ -33,8 +33,8 @@ const Banner = () => {
         />
         <Carousel.Caption>
           <h3 className="banner-text">Welcome to Bangladesh Tour</h3>
-          <p className="banner-text">Your all-in-one travel app.</p>
-          <Button className='ENbtn' onClick={() => navigate.push('/search')} variant='outlined'>Explore Nearby</Button>
+          {/* <p className="banner-text">Your all-in-one travel app.</p> */}
+          <Button className='ENbtn' onClick={() => navigate('/search')} variant='outlined'>Explore Nearby</Button>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -53,8 +53,8 @@ const Banner = () => {
 
         <Carousel.Caption>
           <h3 className="banner-text">Adventure Is Worthwhile </h3>
-          <p className="banner-text">DISCOVER NEW PLACES WITH BD, TRAVEL GURU.</p>
-          <Button className='ENbtn' onClick={() => navigate.push('/search')}variant='outlined'>Explore Nearby</Button>
+          {/* <p className="banner-text">DISCOVER NEW PLACES WITH BD, TRAVEL GURU.</p> */}
+          <Button className='ENbtn' onClick={() => navigate('/search')} variant='outlined'>Explore Nearby</Button>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -73,10 +73,10 @@ const Banner = () => {
 
         <Carousel.Caption>
           <h3 className="banner-text">Incredible last-minute hotel deals</h3>
-          <p className="banner-text">
+          {/* <p className="banner-text">
             SAVE MONEY AND TIME BY BOOKING TONIGHT AND BEYOND.
-          </p>
-          <Button className='ENbtn' onClick={() => navigate.push('/search')}variant='outlined'>Explore Nearby</Button>
+          </p> */}
+          <Button className='ENbtn' onClick={() => navigate('/search')} variant='outlined'>Explore Nearby</Button>
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
