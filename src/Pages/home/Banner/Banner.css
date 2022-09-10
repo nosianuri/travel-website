@@ -1,0 +1,21 @@
+.ENbtn {
+    background-color: #0071c2 !important;
+    color: white !important;
+    border: none;
+}
+
+.banner-text{
+    color: #F0FFF0;
+}
+
+.banner__search {
+    display: flex;
+    flex-direction: column;
+}
+
+.banner__searchButton {
+  background-color: white !important;
+  font-weight: 900 !important;
+  text-transform: inherit !important;
+  color: #ff7779 !important;
+}
