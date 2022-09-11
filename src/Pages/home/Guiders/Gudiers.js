@@ -20,7 +20,7 @@ const guiders = [
 
 const Gudiers = () => {
     return (
-        <div id='guiders' className='container mt-5'>
+        <div id='guiders' className='container mt-5 '>
             <h2 className='text-color text-center'>Our Touriest Guider</h2>
             <div className='row'>
                 {

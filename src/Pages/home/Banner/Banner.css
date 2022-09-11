@@ -1,5 +1,5 @@
 .ENbtn {
-    background-color: #0071c2 !important;
+    background: linear-gradient(100deg, #FF8066, #FF918D) !important;
     color: white !important;
     border: none;
 }

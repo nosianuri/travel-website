@@ -21,7 +21,7 @@
   
   .mailInputContainer>button{
     height: 50px;
-    background-color: #0071c2;
+    background: linear-gradient(100deg, #FF8066, #FF918D);
     color: white;
     font-weight: 500;
     border: none;

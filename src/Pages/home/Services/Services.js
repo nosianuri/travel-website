@@ -18,7 +18,7 @@ const Services = () => {
             <p className='services-p'> <span><Check/></span>Travel possible in both directions <span><Check/></span> No quarantine or 24h quarantine <span><Check/></span> Great Deals</p>
             <div className='services-container mt-5'>
                 {
-                    services.map(service => <Service
+                    services.slice(0, 6).map(service => <Service
                         key={service._id}
                         service={service}
                     ></Service>)
