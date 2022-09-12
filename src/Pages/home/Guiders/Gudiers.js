@@ -10,18 +10,46 @@ import guider6 from '../../../images/guider/guide6.jpg';
 import Gudier from '../Guider/Gudier';
 
 const guiders = [
-    {id:1, name: 'Munker Naim', img: guider1},
-    {id:2, name: 'Shamim hossen', img: guider2},
-    {id:3, name: 'Toufiq hasan', img: guider3},
-    {id:4, name: 'Tamzidur Rahman', img: guider4},
-    {id:5, name: 'Ezaz Islam', img: guider5},
-    {id:6, name: 'Bokhtier Islam', img: guider6},
+    {
+        id:1, 
+        name: 'Nissan Sentra or Similar', 
+        img: 'https://i.ibb.co/qYp73Fm/pexels-mike-217326.jpg',
+        address: 'From US$130.88'
+    },
+    {
+        id:2, 
+        name: 'Nissan Sentra or Similar', 
+        img: 'https://i.ibb.co/jZLNvR8/car.jpg',
+        address: 'From US$130.88'
+    },
+    {
+        id:3, 
+        name: 'Volkswagen Jetta 2 Doors or Similar', img: 'https://i.ibb.co/0ZTZ69V/car1.jpg',
+        address: 'From US$131.79'
+    },
+    {
+        id:4, 
+        name: 'Nissan Sentra or Similar', 
+        img: 'https://i.ibb.co/bFt7GTd/car4.jpg',
+        address: 'From US$130.88'
+    },
+    {
+        id:5, 
+        name: 'Nissan Sentra or Similar', 
+        img: 'https://i.ibb.co/6PD5Bpf/car6.jpg',
+        address: 'From US$130.88'
+    },
+    {
+        id:6, 
+        name: 'Nissan Sentra or Similar', 
+        img: 'https://i.ibb.co/4pnBNK2/car8.jpg'
+    },
 ]
 
 const Gudiers = () => {
     return (
         <div id='guiders' className='container mt-5 '>
-            <h2 className='text-color text-center'>Our Touriest Guider</h2>
+            <h2 className='text-color text-center'>Recommended Car Rentals</h2>
             <div className='row'>
                 {
                     guiders.map(guider => <Gudier

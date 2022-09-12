@@ -13,7 +13,7 @@ const Service = ({service}) => {
         <img className='w-100 serviceimg' src={image} alt="" />
         <div className='serviceTitles'>
         <h2>{name}</h2>
-        <button onClick={()=>navigateToServiceDetail(_id)} className='btn btn-color'>Visit Now</button>
+        <button onClick={()=>navigateToServiceDetail(_id)}  className='btn btn-color'>Visit Now</button>
         </div>
             {/* <h2>{name}</h2> */}
             {/* <p><small>{description}</small></p> */}

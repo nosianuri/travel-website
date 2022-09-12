@@ -15,8 +15,8 @@ function Attractions() {
                     <button className='m-4 btn-a'>Bogura</button>
                 </p>
 
-                <div className='attraction'>
-                    <div className='attraction-card m-4'>
+                <div className=' attraction'>
+                    <div className=' attraction-card m-4'>
                         <div className='imgbox'>
                             <img src="https://i.ibb.co/svst0yn/Ahsan-Manzil.jpg" alt="Ahsan Manzil" />
                         </div>
@@ -25,7 +25,7 @@ function Attractions() {
                             <p>Ahsan Manzil is the erstwhile official residential palace and seat of the Nawab of Dhaka.</p>
                         </div>
                     </div>
-                    <div className='attraction-card m-4'>
+                    <div className=' attraction-card m-4'>
                         <div className='imgbox'>
                             <img src="https://i.ibb.co/mCZZbjY/National-museum.jpg" alt="Ahsan Manzil" />
                         </div>
@@ -34,7 +34,7 @@ function Attractions() {
                             <p>Ahsan Manzil is the erstwhile official residential palace and seat of the Nawab of Dhaka.</p>
                         </div>
                     </div>
-                    <div className='attraction-card m-4'>
+                    <div className=' attraction-card m-4'>
                         <div className='imgbox'>
                             <img src="https://i.ibb.co/xmdXz9q/mahasthangarh-bogra.jpg" alt="Ahsan Manzil" />
                         </div>
@@ -43,7 +43,7 @@ function Attractions() {
                             <p>Ahsan Manzil is the erstwhile official residential palace and seat of the Nawab of Dhaka.</p>
                         </div>
                     </div>
-                    <div className='attraction-card m-4'>
+                    <div className=' attraction-card m-4'>
                         <div className='imgbox'>
                             <img src="https://i.ibb.co/YR1C6p0/cox-s-bazar.jpg" alt="Ahsan Manzil" />
                         </div>

@@ -7,6 +7,7 @@ import MailList from '../Maillist/MailList';
 import Testimonial from '../Testimonial/Testimonial';
 import Review from '../Review/Review';
 import Attractions from '../Attractions/Attractions';
+import Explore from '../Explore/Explore';
 
 
 
@@ -21,6 +22,7 @@ const Home = () => {
             <Services></Services>
             <Attractions />
             <Gudiers></Gudiers>
+            <Explore />
             <Review />
             <MailList />
         </>
