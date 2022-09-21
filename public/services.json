@@ -3,7 +3,8 @@
         "id": 1,
         "name": "Mohasthan Garh",
         "price": 700,
-        "quantity": 0,
+        "room": "$40 / night",
+        "star": 4.3,
         "supplier": "Shamim Hossen",
         "description": "Mahasthangarh is one of the earliest urban archaeological sites so far discovered in Bangladesh. The village Mahasthan in Shibganj upazila of Bogra District contains the remains of an ancient city which was called Pundranagara or Paundravardhanapura in the territory of Pundravardhana.",
         "image": "https://i.ibb.co/vd2bnNt/mohasthan.png"
@@ -12,7 +13,8 @@
         "id": 2,
         "name": "Rangamati Town",
         "price": 1000,
-        "quantity": 0,
+        "room": "$40 / night",
+        "star": 4.3,
         "supplier": "Munker Naim",
         "description": "Rangamati is the administrative headquarter and town of Rangamati Hill District in the Chittagong Hill Tracts of Bangladesh. The town is located at 22°37'60N 92°12'0E and has an altitude of 14 metres. The district is administered by an office named as District Administration, Rangamati.",
         "image": "https://i.ibb.co/pJtBf0L/Ratargul.png"
@@ -21,7 +23,8 @@
         "id": 3,
         "name": "Sajek valley",
         "price": 1000,
-        "quantity": 0,
+        "room": "$40 / night",
+        "star": 4.3,
         "supplier": "Toufiq Hossen",
         "description": "Sajek Tripuri Valley is one of the most popular tourist spots in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in Rangamati District. The valley is 2,000 feet above sea level. Sajek Tripuri Valley is known as the Queen of Hills & Roof of Rangamati.",
         "image": "https://i.ibb.co/CBTtWyz/sajek.png"
@@ -30,7 +33,8 @@
         "id": 4,
         "name": "Hanging Bridge",
         "price": 950,
-        "quantity": 0,
+        "room": "$40 / night",
+        "star": 4.3,
         "supplier": "Afzal Hossan",
         "description": "Hanging Bridge(Jhulonto Bridge in Bengali)is the landmark icon of Rangamati. It's a popular tourist spot and a must go destination. Parjatan holiday complex is the best place to stay in Rangamati. Boating is the prime attraction in Rangamati.",
         "image": "https://i.ibb.co/jTDp6sJ/bridge.png"
@@ -39,7 +43,8 @@
         "id": 5,
         "name": "Kaptai Lake",
         "price": 750,
-        "quantity": 0,
+        "room": "$40 / night",
+        "star": 4.3,
         "supplier": "Bokhtier Islam",
         "description": "Kaptai Lake is the largest lake in Bangladesh. It is located in the Kaptai Upazila under Rangamati District of Chittagong Division. The lake was created as a result of building the Kaptai Dam on the Karnaphuli River, as part of the Karnaphuli Hydro-electric project.",
         "image": "https://i.ibb.co/KhdvbQ8/Kaptai-Lake.png"
@@ -48,7 +53,8 @@
         "id": 6,
         "name": "Indigenous Museum",
         "price": 750,
-        "quantity": 0,
+        "room": "$40 / night",
+        "star": 4.3,
         "supplier": "Tamzidur Rahman",
         "description": "Varendra Museum (Bengali: বরেন্দ্র জাদুঘর) is a museum, research centre, and popular visitor attraction at the heart of Rajshahi and maintained by Rajshahi University in Bangladesh. It is considered the oldest museum in Bangladesh. It was the first museum to be established in East Bengal in 1910.",
         "image": "https://i.ibb.co/WvJsPvN/Rectangle-1.png"
@@ -57,7 +63,8 @@
         "id": 7,
         "name": "Srimongal",
         "price": 900,
-        "quantity": 0,
+        "room": "$40 / night",
+        "star": 4.3,
         "supplier": "Neyamul Kabir",
         "description": "Sreemangal is an upazila of Moulvibazar District in the Sylhet Division of Bangladesh. It is located at the southwest of the district, and borders the Habiganj District to the west and the Indian state of Tripura to the south.",
         "image": "https://i.ibb.co/WyByCHn/srimagal.png"
@@ -66,7 +73,8 @@
         "id": 8,
         "name": "Paharpur",
         "price": 1100,
-        "quantity": 0,
+        "room": "$40 / night",
+        "star": 4.3,
         "supplier": "Tauhid Islam",
         "description": "Somapura Mahavihara in Paharpur, Badalgachhi, Naogaon, Bangladesh is among the best known Buddhist viharas, monasteries, in the Indian Subcontinent and is one of the most important archaeological sites in the country.",
         "image": "https://i.ibb.co/bHYggNs/paharpur.png"
@@ -75,7 +83,8 @@
         "id": 9,
         "name": "Lalbag Fort",
         "price": 800,
-        "quantity": 0,
+        "room": "$40 / night",
+        "star": 4.3,
         "supplier": "Ezaz Rahman",
         "description": "Lalbagh Fort is an incomplete 17th-century Mughal fort complex that stands before the Buriganga River in the southwestern part of Dhaka, Bangladesh. The construction was started in 1678 AD by Mughal Subahdar Muhammad Azam Shah, who was a son of Emperor Aurangzeb and later emperor himself.",
         "image": "https://i.ibb.co/GF1gsFY/sitakundu.png"
@@ -84,7 +93,8 @@
         "id": 10,
         "name": "Ahsan Manzil",
         "price": 1300,
-        "quantity": 0,
+        "room": "$40 / night",
+        "star": 4.3,
         "supplier": "Jeffrey Bezos",
         "description": "Ahsan Manzil is the erstwhile official residential palace and seat of the Nawab of Dhaka. The building is situated at Kumartoli along the banks of the Buriganga River in Dhaka, Bangladesh. Construction was started in 1859 and was completed in 1872. It was constructed in the Indo-Saracenic Revival architecture. ",
         "image": "https://i.ibb.co/tmyk47n/Ahsan.png"
@@ -93,7 +103,8 @@
         "id": 11,
         "name": "Jaflong",
         "price": 900,
-        "quantity": 0,
+        "room": "$40 / night",
+        "star": 4.3,
         "supplier": "Warren Buffett",
         "description": "Jaflong is a hill station and tourist destination in the Division of Sylhet, Bangladesh. It is located in Gowainghat Upazila of Sylhet District and situated at the border between Bangladesh and the Indian state of Meghalaya, overshadowed by subtropical mountains and rainforests.",
         "image": "https://i.ibb.co/W63ksy4/jaflong.png"
@@ -102,7 +113,8 @@
         "id": 12,
         "name": "Ratatgul Swamp Forest",
         "price": 1400,
-        "quantity": 0,
+        "room": "$40 / night",
+        "star": 4.3,
         "supplier": "Gautam Adani",
         "description": "Ratargul Swamp Forest is a freshwater swamp forest located in Gowain River, Fatehpur Union, Gowainghat, Sylhet, Bangladesh. Ratargul was once thought to be the only swamp forest in Bangladesh, and one of the few freshwater swamp forests in the world.",
         "image": "https://i.ibb.co/pJtBf0L/Ratargul.png"
@@ -111,7 +123,8 @@
         "id": 13,
         "name": "Sitakundu",
         "price": 650,
-        "quantity": 0,
+        "room": "$40 / night",
+        "star": 4.3,
         "supplier": "Musa Bin Shamser",
         "description": "Sitakunda is an upazila in the Chattogram District of Chattogram Division, Bangladesh. It includes one urban settlement, the Sitakunda Town, and 10 unions. Sitakunda is the home of the country's first eco-park, as well as alternative energy projects, specifically wind energy and geothermal power.",
         "image": "https://i.ibb.co/GF1gsFY/sitakundu.png"
@@ -120,7 +133,8 @@
         "id": 14,
         "name": "Nijhum Island",
         "price": 750,
-        "quantity": 0,
+        "room": "$40 / night",
+        "star": 4.3,
         "supplier": "Giasuddin Mamun",
         "description": "Nijhum Dwip is a small island under Hatiya upazila. It is situated in Noakhali District in Bangladesh. Once it was called Char Osmani, Baluar Char, Golden Island A cluster of islands emerged in the early 1950s as an alluvium in the shallow estuary of the Bay of Bengal on the south of Noakhali.",
         "image": "https://i.ibb.co/M1FMdXN/nijhum.png"
@@ -129,7 +143,8 @@
         "id": 15,
         "name": "Patenga Sea Beach",
         "price": 500,
-        "quantity": 0,
+        "room": "$40 / night",
+        "star": 4.3,
         "supplier": "Salman F. Rahman",
         "description": "Patenga is a sea beach of the Bay of Bengal, located 14 kilometres south from the port city of Chattogram, Bangladesh. It is near to the mouth of the Karnaphuli River. The beach is very close to the Bangladesh Naval Academy of the Bangladesh Navy and Shah Amanat International Airport.",
         "image": "https://i.ibb.co/CbBv8sW/patenga.png"
