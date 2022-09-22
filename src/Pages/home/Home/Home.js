@@ -8,6 +8,7 @@ import Testimonial from '../Testimonial/Testimonial';
 import Review from '../Review/Review';
 import Attractions from '../Attractions/Attractions';
 import Explore from '../Explore/Explore';
+import TravelOffer from '../TravelOffer/TravelOffer';
 
 
 
@@ -20,6 +21,7 @@ const Home = () => {
             <Banner></Banner>
             <Testimonial />
             <Services></Services>
+            <TravelOffer />
             <Attractions />
             <Gudiers></Gudiers>
             <Explore />
