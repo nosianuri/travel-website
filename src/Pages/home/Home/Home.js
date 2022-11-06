@@ -12,6 +12,7 @@ import TravelOffer from '../TravelOffer/TravelOffer';
 
 
 
+
 const Home = () => {
     return (
         <>
@@ -19,6 +20,7 @@ const Home = () => {
             <title>Home - Travel Master</title>
         </Helmet>
             <Banner></Banner>
+            
             <Testimonial />
             <Services></Services>
             <TravelOffer />
