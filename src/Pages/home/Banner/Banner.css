@@ -1,5 +1,5 @@
 .ENbtn {
-    background: linear-gradient(100deg, #FF8066, #FF918D) !important;
+    background: linear-gradient(45deg,var(--primary-dark) 0%, var(--primary-light) 100%) !important;
     color: white !important;
     border: none;
 }
@@ -17,7 +17,7 @@
   background-color: white !important;
   font-weight: 900 !important;
   text-transform: inherit !important;
-  color: #ff7779 !important;
+  color: var(--primary-dark) !important;
   
 }
 

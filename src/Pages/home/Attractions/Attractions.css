@@ -77,3 +77,9 @@ img {
 .content h4 {
     color: #7f9ead;
 }
+
+@media (max-width: 800px) {
+    .attraction-card{
+        display: grid;
+    }
+}

@@ -3,7 +3,7 @@ import { Carousel } from 'react-bootstrap';
 import { Button } from "@material-ui/core";
 import Search from './Search';
 import './Banner.css';
-import banner1 from '../../../images/Rectangle 1.png';
+import banner1 from '../../../images/travel.jpg';
 import banner2 from '../../../images/Rectangle 28.png';
 import banner3 from '../../../images/Rectangle 27.png';
 import { useNavigate } from 'react-router-dom';
